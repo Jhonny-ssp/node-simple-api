@@ -2,7 +2,7 @@ POST http://localhost:3333/videos
 Content-Type: application/json
 
 {
-    "title": "node 12",
+    "title": "teste 12",
     "description": "Um video qualquer",
     "duration": 1234
 }
@@ -19,7 +19,7 @@ PUT http://localhost:3333/videos/e9e0ab17-517b-4fbb-b6de-5a1a9b82fd7d
 Content-Type: application/json
 
 {
-    "title": "oioiooi",
+    "title": "testeeee",
     "description": "Um video qualquer",
     "duration": 123
 }
@@ -30,7 +30,7 @@ DELETE http://localhost:3333/videos/5918ff69-24cd-41cf-8179-408834dc00e5
 Content-Type: application/json
 
 {
-    "title": "video2",
+    "title": "teste teste",
     "description": "Um video qualquer",
     "duration": 123
 }
